@@ -36,15 +36,15 @@ We are required to investigate and explore the problem of 'Absenteeism at Work' 
         2.3 Convert Timestamp
             2.3.1 Extract the Month Value
             2.3.2 Extract the Day of the Week
-        2.4 Convert Catagorisation Variable
+        2.4 Convert Categorization Variable
     3. Load the Processed Data
         3.1 Create the Target
         3.2 Standardize the Data
-        3.3 Train Test Split
+        3.3 Train-Test Split
     4. Applying Logistic Regression
         4.1 Find Intercept and Coefficients
         4.2 Test the Model
-    5. Save the Mode
+    5. Save the Model
    
   3. Run and execute the [IPython file for integrating Python & MySQL](Absenteeism_Integration.ipynb).
     
