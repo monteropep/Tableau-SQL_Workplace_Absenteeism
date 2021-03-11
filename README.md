@@ -25,7 +25,7 @@ We are required to investigate and explore the problem of 'Absenteeism at Work' 
 ## Instructions
 
   1. Downloaded the database
-  2. Run and execute the [IPython file for Machine Learning Pipeline](docs/Project_Absenteeism.ipynb). The following will be covered, and return a prediction.
+  2. Run and execute the [IPython file for Machine Learning Pipeline](Project_Absenteeism.ipynb). The following will be covered, and return a prediction.
   
     1. Import Dataset
     2. Data Preprocessing
@@ -46,17 +46,16 @@ We are required to investigate and explore the problem of 'Absenteeism at Work' 
         4.2 Test the Model
     5. Save the Mode
    
-  3. Run and execute the [IPython file for integrating Python & MySQL](docs/Absenteeism_Integration.ipynb).
+  3. Run and execute the [IPython file for integrating Python & MySQL](Absenteeism_Integration.ipynb).
     
     1. Import Modules
     2. Link to SQL Database
     3. Create the Insert Statement
     4. Execute
 
-Screenshot of the MySQL Dataset:
-<img src="docs/MySQL_Database.png" >
+Screenshot of the MySQL Dataset: <img src="MySQL_Database.png">
 
-  4. Extract the dataset from `MySQL`as CSV.
+  4. Extract the dataset from `MySQL`as [CSV](Absenteeism_predictions.csv).
   5. Import in `Tableau 2019`. Tableau workbook for this project can be viewd and downloaded from TableauPublic. 
   
 Screenshot of the Dashboard: Relationship of Age and Absenteeism Probability
