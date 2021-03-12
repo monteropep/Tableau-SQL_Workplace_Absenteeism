@@ -2,7 +2,7 @@
 
 This project is a part of the learning milestone of a Udemy course delivered by [365 Careers](https://www.udemy.com/course/python-sql-tableau-integrating-python-sql-and-tableau/).
 
-   Author [Jose Montero](https://github.com/monteropep) [LinkedIn](https://www.linkedin.com/in/jose-montero-8a517b129/)
+   Author [Jose Montero](https://github.com/monteropep) [LinkedIn](https://www.linkedin.com/in/jose-montero-8a517b129/) [Tableau Public](https://public.tableau.com/profile/jose.montero1292#!/)
 
 ## Project Status: [Completed]  :nerd_face:
 
@@ -56,7 +56,7 @@ We are required to investigate and explore the problem of 'Absenteeism at Work' 
 Screenshot of the MySQL Dataset: <img src="MySQL_Database.png">
 
   4. Extract the dataset from `MySQL`as [CSV](Absenteeism_predictions.csv).
-  5. Import in `Tableau 2019`. Tableau workbook for this project can be viewd and downloaded from TableauPublic. 
+  5. Import in `Tableau 2019`. Tableau workbook for this project can be viewd and downloaded from [Tableau Public](https://public.tableau.com/profile/jose.montero1292#!/). 
   
 Screenshot of the Dashboard: Relationship of Age and Absenteeism Probability: <img src="Tableau's worksheets/Age vs Probability.jpeg">
 
