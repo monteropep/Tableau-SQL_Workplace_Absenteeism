@@ -58,11 +58,11 @@ Screenshot of the MySQL Dataset: <img src="MySQL_Database.png">
   4. Extract the dataset from `MySQL`as [CSV](Absenteeism_predictions.csv).
   5. Import in `Tableau 2019`. Tableau workbook for this project can be viewd and downloaded from TableauPublic. 
   
-Screenshot of the Dashboard: Relationship of Age and Absenteeism Probability
+Screenshot of the Dashboard: Relationship of Age and Absenteeism Probability: <img src="Tableau's worksheets/Age vs Probability.jpeg">
 
-Screenshot of the Dashboard: Relationship of Transportation Expense and Absenteeism Probability
+Screenshot of the Dashboard: Relationship of Transportation Expense and Absenteeism Probability: <img src="Tableau's worksheets/Transportation Expense vs Probability.jpeg">
 
-Screenshot of the Dashboard: Relationship of Reasons for Absenteeism and Absenteeism Probability
+Screenshot of the Dashboard: Relationship of Reasons for Absenteeism and Absenteeism Probability: <img src="Tableau's worksheets/Reasons vs Probability.jpeg">
 
 
   
