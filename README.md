@@ -1,4 +1,4 @@
-# A study on Absenteeism with the Integration of Python, SQL & Tableau 2019.
+# Case study on Absenteeism with the Integration of Python, SQL & Tableau 2019.
 
 This project is a part of the learning milestone of a Udemy course delivered by [365 Careers](https://www.udemy.com/course/python-sql-tableau-integrating-python-sql-and-tableau/).
 
