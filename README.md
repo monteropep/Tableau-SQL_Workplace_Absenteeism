@@ -56,7 +56,7 @@ We are required to investigate and explore the problem of 'Absenteeism at Work' 
 Screenshot of the MySQL Dataset: <img src="MySQL_Database.png">
 
   4. Extract the dataset from `MySQL`as [CSV](Absenteeism_predictions.csv).
-  5. Import in `Tableau 2019`. Tableau workbook for this project can be viewd and downloaded from [Tableau Public](https://public.tableau.com/profile/jose.montero1292#!/). 
+  5. Import in `Tableau 2019`. Tableau workbook for this project can be viewed and downloaded from [Tableau Public](https://public.tableau.com/profile/jose.montero1292#!/vizhome/Absenteeism_Dashboard_16156259724450/AgevsAbsenteeismProbability). 
   
 Screenshot of the Dashboard: Relationship of Age and Absenteeism Probability: <img src="Tableau's worksheets/Age vs Probability.jpeg">
 
